@@ -1,1 +1,1 @@
-echo "Helo World"
+echo "Hel World"
